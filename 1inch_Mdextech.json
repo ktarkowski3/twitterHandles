@@ -1,0 +1,1278 @@
+{
+    "data": [
+        {
+            "created_at": "2019-06-07T16:47:33.000Z",
+            "description": "A distributed network for various protocols on #Ethereum, #BNBChain, #Avalanche, #Polygon, #O\u039e, #Arbitrum, #Gnosis, #Fantom, #Klaytn and #Aurora.",
+            "id": "1137038394503114753",
+            "name": "1inch Network",
+            "public_metrics": {
+                "followers_count": 1122952,
+                "following_count": 305,
+                "listed_count": 3863,
+                "tweet_count": 6567
+            },
+            "username": "1inch"
+        },
+        {
+            "created_at": "2019-10-27T19:12:49.000Z",
+            "description": "Lend your crypto assets at a fixed APR. Receive $MPH rewards, 100% of the protocol revenues, and voting rights. https://t.co/iCPuXHI9Xq / https://t.co/Wrn9qY6vbG",
+            "id": "1188534001042112519",
+            "name": "ve88mph \ud83d\udef9",
+            "public_metrics": {
+                "followers_count": 14879,
+                "following_count": 3,
+                "listed_count": 233,
+                "tweet_count": 1641
+            },
+            "username": "88mphapp"
+        },
+        {
+            "created_at": "2017-05-23T19:29:04.000Z",
+            "description": "We built Aave Protocol, an open source and non-custodial liquidity protocol. #DeFi https://t.co/HkoaJpRqpS",
+            "id": "867100084248469505",
+            "name": "Aave",
+            "public_metrics": {
+                "followers_count": 513166,
+                "following_count": 50,
+                "listed_count": 5570,
+                "tweet_count": 3428
+            },
+            "username": "AaveAave"
+        },
+        {
+            "created_at": "2021-05-04T18:34:45.000Z",
+            "description": "Borrow, Leverage or Earn Yield. \ud83d\udd25\n\nEnjoy the Magic #Wizard. \ud83d\udd2e\n\n$MIM $SPELL \n\nDiscord: https://t.co/mi8POGsiM7",
+            "id": "1389649651540836354",
+            "name": "\ud83e\uddd9\ud83c\udffc\u200d\u2642\ufe0f",
+            "public_metrics": {
+                "followers_count": 121295,
+                "following_count": 8,
+                "listed_count": 1160,
+                "tweet_count": 509
+            },
+            "username": "MIM_Spell"
+        },
+        {
+            "created_at": "2020-09-20T17:55:10.000Z",
+            "description": "Dev @ Advanced Crypto Strategies - multi-chain Yield Optimizer and StableSwap. TG: https://t.co/Uo6qPVpwzw",
+            "id": "1307739977380319233",
+            "name": "x \u00b7 ACryptoS.com \u2694\ufe0f #BSC",
+            "public_metrics": {
+                "followers_count": 12607,
+                "following_count": 152,
+                "listed_count": 222,
+                "tweet_count": 746
+            },
+            "username": "acryptosx"
+        },
+        {
+            "created_at": "2021-04-25T19:11:19.000Z",
+            "description": "https://t.co/OY02mwlZKa \nThe #1 Auto-Compounder and Yield Optimizer for \n@0xPolygon and @arbitrum",
+            "id": "1386397343323508738",
+            "name": "AdamantVault",
+            "public_metrics": {
+                "followers_count": 8199,
+                "following_count": 19,
+                "listed_count": 137,
+                "tweet_count": 468
+            },
+            "username": "AdamantVault"
+        },
+        {
+            "created_at": "2020-08-12T11:59:00.000Z",
+            "description": "Spend and save at the same time. Leverage your wealth without risk of liquidation with a self-repaying loan. https://t.co/f1dYGqkNBq",
+            "id": "1293517137705750528",
+            "name": "Alchemix",
+            "public_metrics": {
+                "followers_count": 66186,
+                "following_count": 10,
+                "listed_count": 1050,
+                "tweet_count": 1127
+            },
+            "username": "AlchemixFi"
+        },
+        {
+            "created_at": "2021-02-11T08:13:22.000Z",
+            "description": "Largest platform of leveraged #DeFi products in #crypto @ #BNBChain #Fantom\n\nhttps://t.co/50mzpwcpIE\n\n$ALPACA",
+            "id": "1359776850579312642",
+            "name": "Alpaca Finance \ud83e\udd99\u03b40",
+            "public_metrics": {
+                "followers_count": 89642,
+                "following_count": 355,
+                "listed_count": 667,
+                "tweet_count": 4602
+            },
+            "username": "AlpacaFinance"
+        },
+        {
+            "created_at": "2020-05-12T07:12:33.000Z",
+            "description": "A Builders\u2019 DAO. We explore and innovate at the fringes of Web3 and drive significant value to Web3 users, and ultimately, alpha returns to the Alpha community.",
+            "id": "1260105245033558022",
+            "name": "Alpha Venture DAO (Previously Alpha Finance Lab)",
+            "public_metrics": {
+                "followers_count": 110590,
+                "following_count": 90,
+                "listed_count": 1200,
+                "tweet_count": 3406
+            },
+            "username": "AlphaVentureDAO"
+        },
+        {
+            "created_at": "2021-04-01T07:40:51.000Z",
+            "description": "We help to grow #AngleProtocol, a capital-efficient, decentralized, over-collateralized stablecoin protocol behind agEUR \ud83c\uddea\ud83c\uddfa \n\n\ud83d\udd17 https://t.co/M5hoeoUTCY",
+            "id": "1377526304615112704",
+            "name": "Angle Labs \ud83d\udcd0",
+            "public_metrics": {
+                "followers_count": 28810,
+                "following_count": 71,
+                "listed_count": 291,
+                "tweet_count": 1158
+            },
+            "username": "AngleProtocol"
+        },
+        {
+            "created_at": "2021-08-02T20:47:37.000Z",
+            "description": "X-Chain marketplace for structured products (complex yield strategies). Binance MVB Program.\n\n** There is no Aperture token (yet) ** | https://t.co/VqFP2bgO9F",
+            "id": "1422298025603436568",
+            "name": "Aperture Finance",
+            "public_metrics": {
+                "followers_count": 22055,
+                "following_count": 199,
+                "listed_count": 236,
+                "tweet_count": 378
+            },
+            "username": "ApertureFinance"
+        },
+        {
+            "created_at": "2021-02-07T19:25:29.000Z",
+            "description": "We have the tools, community, and connections (\u26cf, \ud83d\udc35, \ud83e\udd1d) to support your DeFi needs \n\n\ud83c\udf4c Long Live $BANANA\n\u26d3 BNB, Polygon, Telos & Ethereum\n\ud83c\udf34 https://t.co/xsed0zEUW2",
+            "id": "1358495802386243585",
+            "name": "ApeSwap",
+            "public_metrics": {
+                "followers_count": 291483,
+                "following_count": 305,
+                "listed_count": 1262,
+                "tweet_count": 4904
+            },
+            "username": "ape_swap"
+        },
+        {
+            "created_at": "2022-01-18T17:02:47.000Z",
+            "description": "ArmorFi has undergone a rebrand to https://t.co/UaK2wnRwrl The former twitter account has migrated to that name. Please go to https://t.co/w8D4Uw9y9k.",
+            "id": "1483484031270285312",
+            "name": "ArmorFi (Now Ease.org)",
+            "public_metrics": {
+                "followers_count": 174,
+                "following_count": 1,
+                "listed_count": 5,
+                "tweet_count": 9
+            },
+            "username": "ArmorFi"
+        },
+        {
+            "created_at": "2021-07-02T15:06:35.000Z",
+            "description": "A meta AMM built on Terra. \n\nApp: https://t.co/fz18fmdX6H\nDiscord: https://t.co/L8WA4K2gkz\nTelegram: https://t.co/kiLJmew5Ls\n\nTwitter operated by Delphi Labs Ltd.",
+            "id": "1410977953203302405",
+            "name": "Astroport \u2726",
+            "public_metrics": {
+                "followers_count": 71979,
+                "following_count": 0,
+                "listed_count": 911,
+                "tweet_count": 849
+            },
+            "username": "astroport_fi"
+        },
+        {
+            "created_at": "2017-07-04T00:10:05.000Z",
+            "description": "Auctus brings on-chain options to the #DeFi ecosystem. $AUC\nDiscord: https://t.co/SMZkM406nK Instagram: https://t.co/S2OJKOj969",
+            "id": "882028707220787202",
+            "name": "Auctus",
+            "public_metrics": {
+                "followers_count": 10369,
+                "following_count": 1035,
+                "listed_count": 177,
+                "tweet_count": 1384
+            },
+            "username": "AuctusOptions"
+        },
+        {
+            "created_at": "2014-11-10T05:32:38.000Z",
+            "description": "Your global, no-limit betting platform.",
+            "id": "2895317462",
+            "name": "Augur",
+            "public_metrics": {
+                "followers_count": 158253,
+                "following_count": 250,
+                "listed_count": 2315,
+                "tweet_count": 3315
+            },
+            "username": "AugurProject"
+        },
+        {
+            "created_at": "2020-12-08T13:13:38.000Z",
+            "description": "One-stop DeFi platform | Lowest fee Multi-chain DEX & yield aggregator | Deployed on 19 EVM-compatible chains https://t.co/QLvSsHQOTC",
+            "id": "1336297862867501062",
+            "name": "autofarm.network",
+            "public_metrics": {
+                "followers_count": 124332,
+                "following_count": 318,
+                "listed_count": 912,
+                "tweet_count": 4847
+            },
+            "username": "autofarmnetwork"
+        },
+        {
+            "created_at": "2022-11-17T12:38:39.000Z",
+            "description": "AutoShark Finance is the 1st Hybrid AMM and Yield Optimizer, offering unparalleled access to farming opportunities through the use of superior yield strategies",
+            "id": "1593221996858703878",
+            "name": "\ud83e\udd88 AUTOSHARK FINANCE \ud83e\udd88",
+            "public_metrics": {
+                "followers_count": 7,
+                "following_count": 0,
+                "listed_count": 0,
+                "tweet_count": 29
+            },
+            "username": "AutoSharkFin"
+        },
+        {
+            "created_at": "2020-06-29T09:24:27.000Z",
+            "description": "B.Protocol democratizes the liquidation systems in DeFi to unlock better capital efficiency, through a Backstop liquidity protocol.\nhttps://t.co/3IKutQFKst",
+            "id": "1277533349058416641",
+            "name": "B.Protocol (\u229f\u2192\u229e)",
+            "public_metrics": {
+                "followers_count": 7227,
+                "following_count": 3,
+                "listed_count": 131,
+                "tweet_count": 734
+            },
+            "username": "bprotocoleth"
+        },
+        {
+            "created_at": "2021-05-17T04:20:24.000Z",
+            "description": "A supportive Baby #MetaFi including #AMM, #NFT, #GamePad, and #Web3 for newborn projects on #BNBChain. \nGo beyond the #DEX.\n\nhttps://t.co/W0AhZxBIKg \ud83d\udc76",
+            "id": "1394145660581023747",
+            "name": "BabySwap #Baby the Landlord \ud83c\udfdd\ufe0f",
+            "public_metrics": {
+                "followers_count": 302301,
+                "following_count": 150,
+                "listed_count": 442,
+                "tweet_count": 3331
+            },
+            "username": "babyswap_bsc"
+        },
+        {
+            "created_at": "2020-08-01T13:46:51.000Z",
+            "description": "Building Products to Bring BTC to DeFi.\n\nLearn: https://t.co/4gxZVnAN16\nEarn: https://t.co/qRRTSFWAlR\nJoin: https://t.co/czuFYiXzCj\n\nOfficial Support: @Badger_Support",
+            "id": "1289558152581722113",
+            "name": "\u20bfadgerDAO \ud83e\udda1",
+            "public_metrics": {
+                "followers_count": 45057,
+                "following_count": 4,
+                "listed_count": 740,
+                "tweet_count": 2793
+            },
+            "username": "BadgerDAO"
+        },
+        {
+            "created_at": "2020-10-19T12:01:12.000Z",
+            "description": "Bagels Finance is the 1st cross-chain leveraged yield farming protocol(multi-chain) \ud83e\udd6f$BAGEL\n\nTelegram\u2708\ufe0fhttps://t.co/6NsadZVCRz\nDiscord:https://t.co/ObbdWrLMZb",
+            "id": "1318159925156216834",
+            "name": "Bagels.Finance\ud83e\udd6f",
+            "public_metrics": {
+                "followers_count": 61931,
+                "following_count": 79,
+                "listed_count": 32,
+                "tweet_count": 371
+            },
+            "username": "BagelsFinance"
+        },
+        {
+            "created_at": "2007-11-11T20:28:47.000Z",
+            "description": "Balancer Labs contributes to @Balancer Protocol\n\nJoin Discord: https://t.co/XgH37DKe8h",
+            "id": "10161042",
+            "name": "Balancer Labs",
+            "public_metrics": {
+                "followers_count": 5559,
+                "following_count": 52,
+                "listed_count": 69,
+                "tweet_count": 885
+            },
+            "username": "balancerlabs"
+        },
+        {
+            "created_at": "2017-01-04T14:06:31.000Z",
+            "description": "The only DeFi trading and staking protocol with Single-Sided Liquidity.\n\n\ud83d\udcac https://t.co/XpZ73UshzP \n\ud83c\udfae https://t.co/KiVQMHBBQE\n\ud83d\udd17 https://t.co/xfgkkakVZH",
+            "id": "816646997356777472",
+            "name": "Bancor",
+            "public_metrics": {
+                "followers_count": 161468,
+                "following_count": 17,
+                "listed_count": 2098,
+                "tweet_count": 6604
+            },
+            "username": "Bancor"
+        },
+        {
+            "created_at": "2022-03-15T22:23:42.000Z",
+            "description": "We are the Bao Finance community. Our mission is to build an open platform for synthetic tokens that represent any data.\nhttps://t.co/88R01VRAnw\u2026",
+            "id": "1503859406643081218",
+            "name": "Bao Finance",
+            "public_metrics": {
+                "followers_count": 753,
+                "following_count": 11,
+                "listed_count": 8,
+                "tweet_count": 181
+            },
+            "username": "BaoCommunity"
+        },
+        {
+            "created_at": "2020-08-08T16:57:47.000Z",
+            "description": "Fixed interest in DeFi made easy.\n\nEarn sustainable fixed income \ud83d\udc49 https://t.co/9zyTQVWQOx",
+            "id": "1292142909236666371",
+            "name": "BarnBridge \ud83c\udf09",
+            "public_metrics": {
+                "followers_count": 32957,
+                "following_count": 408,
+                "listed_count": 441,
+                "tweet_count": 2366
+            },
+            "username": "Barn_Bridge"
+        },
+        {
+            "created_at": "2022-01-10T01:26:52.000Z",
+            "description": "The First algorithmic token pegged to $TOMB on the Fantom Network!\n\nKYC'd to @AssureDefi\nAudit @ObeliskOrg\n\nhttps://t.co/XQTltI1vjU",
+            "id": "1480350351513505792",
+            "name": "Based Finance\ud83c\udfdb\ud83d\udc7b",
+            "public_metrics": {
+                "followers_count": 14060,
+                "following_count": 107,
+                "listed_count": 67,
+                "tweet_count": 724
+            },
+            "username": "BasedFinance_io"
+        },
+        {
+            "created_at": "2020-09-14T14:54:52.000Z",
+            "description": "THE Multichain Yield Optimizer. We work to make crypto easier for everyone. We innovate for you. https://t.co/HgPmJJlcjt | https://t.co/gnWHy1srj5",
+            "id": "1305519876921004033",
+            "name": "Beefy",
+            "public_metrics": {
+                "followers_count": 272268,
+                "following_count": 23,
+                "listed_count": 1745,
+                "tweet_count": 4929
+            },
+            "username": "beefyfinance"
+        },
+        {
+            "created_at": "2021-09-04T11:42:29.000Z",
+            "description": "DeFi Re-Imagineered.\n\nOfficial partners with @Balancer\n\nJoin the community: https://t.co/eyrvKbmBG2",
+            "id": "1434119617488867332",
+            "name": "Beethoven X",
+            "public_metrics": {
+                "followers_count": 29101,
+                "following_count": 151,
+                "listed_count": 484,
+                "tweet_count": 2215
+            },
+            "username": "beethoven_x"
+        },
+        {
+            "created_at": "2021-02-18T07:35:57.000Z",
+            "description": "https://t.co/WjpKj5u1G1 is an AMM protocol with multi-strategy yield optimization on @BinanceChain, @heco_chain & @klaytn_official | https://t.co/I6DRwyRG5E",
+            "id": "1362304734258864131",
+            "name": "Belt Finance",
+            "public_metrics": {
+                "followers_count": 24134,
+                "following_count": 74,
+                "listed_count": 260,
+                "tweet_count": 468
+            },
+            "username": "BELT_Finance"
+        },
+        {
+            "created_at": "2020-12-24T21:57:48.000Z",
+            "description": "Liquid staking for AVAX. Seamless borrowing on Avalanche. Powered by $QI.\n\n\ud83d\udca7 Stake AVAX: https://t.co/kR7AoXXNAu\n\u26a1 Supply & borrow: https://t.co/xb0vxXeU7g",
+            "id": "1342227971671785473",
+            "name": "BENQI\ud83d\udd3a",
+            "public_metrics": {
+                "followers_count": 64769,
+                "following_count": 6,
+                "listed_count": 839,
+                "tweet_count": 878
+            },
+            "username": "BenqiFinance"
+        },
+        {
+            "created_at": "2021-04-22T13:29:48.000Z",
+            "description": "\ud83c\udfc6BSW is listed on Binance\n\ud83d\udd4aTrusted by more than 600K users\n\ud83d\udd25The lowest exchange fee 0.2%\n\ud83d\udd25Up to 50% Fee Return  \n\ud83d\udd2520% from friends' yields\n\ud83d\udccdhttps://t.co/jddvnFLDMT",
+            "id": "1385223705798787073",
+            "name": "Biswap",
+            "public_metrics": {
+                "followers_count": 323737,
+                "following_count": 124,
+                "listed_count": 692,
+                "tweet_count": 2412
+            },
+            "username": "Biswap_Dex"
+        },
+        {
+            "created_at": "2021-02-25T06:03:18.000Z",
+            "description": "The World Leading IDO & INO Launchpad. Onestop Incubation Hub for Blockchain Start Up. $BSCS Telegram https://t.co/0956zReEXd\n\n#GameFi #Web3 #Metaverse #NFT $BSCS #BSCS",
+            "id": "1364818198416171011",
+            "name": "BSCStation Official",
+            "public_metrics": {
+                "followers_count": 416987,
+                "following_count": 402,
+                "listed_count": 611,
+                "tweet_count": 2440
+            },
+            "username": "bscstation"
+        },
+        {
+            "created_at": "2021-03-15T10:32:44.000Z",
+            "description": "#NFT & #GameFi #SaaS standardized incubation platform. \nWebsite: https://t.co/6tJbguVl2B\nTelegram: https://t.co/qqTtYy6xO3\nDiscord: https://t.co/p720N0kfcu",
+            "id": "1371408995190120451",
+            "name": "BunnyPark",
+            "public_metrics": {
+                "followers_count": 65732,
+                "following_count": 101,
+                "listed_count": 201,
+                "tweet_count": 1430
+            },
+            "username": "BunnyPark_BSC"
+        },
+        {
+            "created_at": "2020-06-20T09:15:37.000Z",
+            "description": "Crypto Rules Everything Around Me",
+            "id": "1274269247892418561",
+            "name": "Cream Finance \ud83c\udf66",
+            "public_metrics": {
+                "followers_count": 80674,
+                "following_count": 130,
+                "listed_count": 1109,
+                "tweet_count": 1521
+            },
+            "username": "CreamdotFinance"
+        },
+        {
+            "created_at": "2021-01-27T14:53:36.000Z",
+            "description": "A Cross-Chain AMM/DEX, Yield Farming, Yield Optimization & Staking Ecosystem",
+            "id": "1354441780675059712",
+            "name": "CafeSwap Finance #BSC #Polygon",
+            "public_metrics": {
+                "followers_count": 62362,
+                "following_count": 95,
+                "listed_count": 214,
+                "tweet_count": 874
+            },
+            "username": "CafeSwapFinance"
+        },
+        {
+            "created_at": "2011-05-03T04:39:28.000Z",
+            "description": "Compound offers 4.00% Treasury Accounts, powered by the open-source Compound protocol",
+            "id": "292132128",
+            "name": "Compound Labs",
+            "public_metrics": {
+                "followers_count": 238698,
+                "following_count": 62,
+                "listed_count": 3441,
+                "tweet_count": 913
+            },
+            "username": "compoundfinance"
+        },
+        {
+            "created_at": "2021-03-06T15:45:08.000Z",
+            "description": "Boosted Curve staking! Maximize your yields!\n\nTelegram Ann: https://t.co/gN3pxLF3zN\n\nDiscord: https://t.co/x6GAkDeMLI",
+            "id": "1368226092050345985",
+            "name": "Convex Finance",
+            "public_metrics": {
+                "followers_count": 47639,
+                "following_count": 92,
+                "listed_count": 885,
+                "tweet_count": 353
+            },
+            "username": "ConvexFinance"
+        },
+        {
+            "created_at": "2020-09-08T19:40:47.000Z",
+            "description": "Peer-to-peer coverage market. \n\nhttps://t.co/VgqhaiszyN \nhttps://t.co/V4AXbNnmG7\nhttps://t.co/naBh0hfsxT",
+            "id": "1303417998116618241",
+            "name": "Cover Protocol",
+            "public_metrics": {
+                "followers_count": 21092,
+                "following_count": 18,
+                "listed_count": 288,
+                "tweet_count": 615
+            },
+            "username": "CoverProtocol"
+        },
+        {
+            "created_at": "2020-01-06T05:08:12.000Z",
+            "description": "Creating deep on-chain liquidity using advanced bonding curves, https://t.co/9tORoy8ZZg",
+            "id": "1214050967986946051",
+            "name": "Curve Finance",
+            "public_metrics": {
+                "followers_count": 319363,
+                "following_count": 174,
+                "listed_count": 3983,
+                "tweet_count": 6697
+            },
+            "username": "CurveFinance"
+        },
+        {
+            "created_at": "2019-04-23T17:09:46.000Z",
+            "description": "Advanced DeFi management.\n\nBlog: https://t.co/LDCfQC6i1B\nDiscord: https://t.co/xkSTMUoSbi",
+            "id": "1120736534704066561",
+            "name": "DeFi Saver",
+            "public_metrics": {
+                "followers_count": 30740,
+                "following_count": 38,
+                "listed_count": 673,
+                "tweet_count": 2244
+            },
+            "username": "DeFiSaver"
+        },
+        {
+            "created_at": "2021-07-05T21:57:41.000Z",
+            "description": "Crosschain Gaming, Decentralized Exchange, Farming, and Playable NFTS! $JEWEL $CRYSTAL $JADE\ud83d\udd3aJOIN THE KINGDOM TODAY https://t.co/uLbj912NZF",
+            "id": "1412168764284706822",
+            "name": "DeFi Kingdoms",
+            "public_metrics": {
+                "followers_count": 115461,
+                "following_count": 170,
+                "listed_count": 1125,
+                "tweet_count": 1204
+            },
+            "username": "DefiKingdoms"
+        },
+        {
+            "created_at": "2018-03-04T07:44:31.000Z",
+            "description": "DeFiner is a permission-less and configurable decentralized lending protocol with privacy 100% protected.",
+            "id": "970203320458637312",
+            "name": "DeFiner",
+            "public_metrics": {
+                "followers_count": 40157,
+                "following_count": 1740,
+                "listed_count": 94,
+                "tweet_count": 1973
+            },
+            "username": "DeFinerOrg"
+        },
+        {
+            "created_at": "2021-09-18T04:37:40.000Z",
+            "description": "Decentralized leveraged trading on #Avalanche. Use unique yield-aggregating supervaults to maximize your returns on liquidity & trade with ease.",
+            "id": "1439086165412532225",
+            "name": "Defrost Finance \ud83d\udd3a",
+            "public_metrics": {
+                "followers_count": 16246,
+                "following_count": 21,
+                "listed_count": 94,
+                "tweet_count": 636
+            },
+            "username": "Defrost_Finance"
+        },
+        {
+            "created_at": "2019-01-02T06:20:02.000Z",
+            "description": "Official account of #dForce Network, an Integrated Platform for #DeFi Protocols. Discord: https://t.co/ZVZdbePUsZ Telegram: https://t.co/bY8d7hu6zr",
+            "id": "1080347969432432640",
+            "name": "dForce",
+            "public_metrics": {
+                "followers_count": 16751,
+                "following_count": 1058,
+                "listed_count": 215,
+                "tweet_count": 3651
+            },
+            "username": "dForcenet"
+        },
+        {
+            "created_at": "2020-09-20T12:04:23.000Z",
+            "description": "L1 Liquidity, L2 scalability. DeFi done right, for everyone! \n\nTelegram: https://t.co/wOHIZPPB3y\nDiscord : https://t.co/ki2EiQOPHM\n\nExchange :  https://t.co/HjZFTIgJRz",
+            "id": "1307651508524126208",
+            "name": "Dfyn",
+            "public_metrics": {
+                "followers_count": 37738,
+                "following_count": 39,
+                "listed_count": 271,
+                "tweet_count": 1608
+            },
+            "username": "_DFyn"
+        },
+        {
+            "created_at": "2020-06-03T04:30:19.000Z",
+            "description": "Start your hedge fund or find a fund you like in 5 minutes with dHEDGE - Decentralized hedge funds accessible to everyone",
+            "id": "1268036561569935360",
+            "name": "dHEDGE",
+            "public_metrics": {
+                "followers_count": 19778,
+                "following_count": 10,
+                "listed_count": 371,
+                "tweet_count": 1934
+            },
+            "username": "dHedgeOrg"
+        },
+        {
+            "created_at": "2020-05-21T14:38:23.000Z",
+            "description": "Decentralized Trading Protocol for Web3, Powered by the Proactive Market Making (PMM) algorithm. #JustDODOIt\n\nhttps://t.co/auqMVjcddH",
+            "id": "1263479224419012619",
+            "name": "DODO DEX & NFT | We are Hiring!",
+            "public_metrics": {
+                "followers_count": 157939,
+                "following_count": 225,
+                "listed_count": 1045,
+                "tweet_count": 1963
+            },
+            "username": "BreederDodo"
+        },
+        {
+            "created_at": "2021-03-07T10:27:40.000Z",
+            "description": "Decentralized Options Exchange. \n\nHedge BTC, ETH and other crypto assets directly from your wallet at https://t.co/Uj2w78tx1H \n\nJoin our Community: https://t.co/7IX0FPALB8",
+            "id": "1368508594530967555",
+            "name": "dopex (\ud83d\udc8e, \ud83d\udc8e)",
+            "public_metrics": {
+                "followers_count": 39549,
+                "following_count": 97,
+                "listed_count": 687,
+                "tweet_count": 2712
+            },
+            "username": "dopex_io"
+        },
+        {
+            "created_at": "2017-09-18T23:56:05.000Z",
+            "description": "Start trading today on the most powerful open exchange, backed by @paradigm, @a16z, and @polychain. Join us on discord at https://t.co/Gc2Vi8Srpb \ud83d\udc9c",
+            "id": "909929047626354688",
+            "name": "dYdX",
+            "public_metrics": {
+                "followers_count": 174380,
+                "following_count": 12,
+                "listed_count": 1951,
+                "tweet_count": 2218
+            },
+            "username": "dYdX"
+        },
+        {
+            "created_at": "2020-10-12T18:20:34.000Z",
+            "description": "Element is an open source protocol for fixed and variable yield markets \n\nEnter the Elfiverse \u2192 https://t.co/yGkFs4N2IF \nJoin us \u2192 https://t.co/CBiFgnbEJZ",
+            "id": "1315718962093658118",
+            "name": "Element Finance",
+            "public_metrics": {
+                "followers_count": 31268,
+                "following_count": 51,
+                "listed_count": 541,
+                "tweet_count": 1559
+            },
+            "username": "element_fi"
+        },
+        {
+            "created_at": "2021-03-19T09:36:30.000Z",
+            "description": "Trade on the most flexible and capital-efficient DEX on BNB Chain.                  Telegram: https://t.co/21K2NAFcS4",
+            "id": "1372844354209861633",
+            "name": "Ellipsis",
+            "public_metrics": {
+                "followers_count": 46100,
+                "following_count": 15,
+                "listed_count": 306,
+                "tweet_count": 642
+            },
+            "username": "Ellipsisfi"
+        },
+        {
+            "created_at": "2016-08-09T15:49:33.000Z",
+            "description": "Welcome to the future of asset management. Build, scale and monetize an investment strategy that suits your needs. https://t.co/UFV3H4urGz",
+            "id": "763039521936203776",
+            "name": "Enzyme",
+            "public_metrics": {
+                "followers_count": 34252,
+                "following_count": 657,
+                "listed_count": 783,
+                "tweet_count": 4370
+            },
+            "username": "enzymefinance"
+        },
+        {
+            "created_at": "2021-02-01T22:37:17.000Z",
+            "description": "Building true DeFi | Telegram: https://t.co/MPMh2110Ue | 2FA On The Blockchain: https://t.co/M3t6q7pQjq | Website: https://t.co/33t5XBepZ3 | Lead Dev: @lifeisdefi",
+            "id": "1356371036133093378",
+            "name": "FEG (Feed Every Gorilla)",
+            "public_metrics": {
+                "followers_count": 452545,
+                "following_count": 157,
+                "listed_count": 726,
+                "tweet_count": 5617
+            },
+            "username": "FEGtoken"
+        },
+        {
+            "created_at": "2018-02-01T21:54:23.000Z",
+            "description": "The fastest, most fraud-proof payment network in the world.",
+            "id": "959183169554735105",
+            "name": "Flexa",
+            "public_metrics": {
+                "followers_count": 45276,
+                "following_count": 43,
+                "listed_count": 335,
+                "tweet_count": 497
+            },
+            "username": "FlexaHQ"
+        },
+        {
+            "created_at": "2018-07-29T06:10:36.000Z",
+            "description": "A decentralized cryptocurrency bank powered by $FOR token. Lending, wealth management, aggregate mining and pools.\nOfficial community: https://t.co/6OcxjRDhx8",
+            "id": "1023450698837516288",
+            "name": "ForTube",
+            "public_metrics": {
+                "followers_count": 40393,
+                "following_count": 474,
+                "listed_count": 179,
+                "tweet_count": 1547
+            },
+            "username": "ForTubeFi"
+        },
+        {
+            "created_at": "2019-05-02T01:29:41.000Z",
+            "description": "Inventors of the fractional stablecoin & 1st crypto native CPI (Frax Price Index) $FPI. $FRAX is the only stablecoin with parts backed & parts algorithmic $FXS",
+            "id": "1123761442824519682",
+            "name": "Frax Finance (\u00a4, \u00a4) \ud83e\udd87\ud83d\udd0a",
+            "public_metrics": {
+                "followers_count": 54020,
+                "following_count": 172,
+                "listed_count": 906,
+                "tweet_count": 1353
+            },
+            "username": "fraxfinance"
+        },
+        {
+            "created_at": "2021-03-24T06:05:21.000Z",
+            "description": "Your DeFi destination for risk-adjusted returns on crypto! \ud83d\udcc8https://t.co/vrCIhaoVTg Join the community:https://t.co/q1h744Zw8j",
+            "id": "1374603170828140545",
+            "name": "Friktion\u26a1",
+            "public_metrics": {
+                "followers_count": 28182,
+                "following_count": 10,
+                "listed_count": 364,
+                "tweet_count": 1904
+            },
+            "username": "friktion_labs"
+        },
+        {
+            "created_at": "2019-12-10T14:58:24.000Z",
+            "description": "Decentralized leverage trading on @arbitrum and @avalancheavax\nDiscord: https://t.co/N7jqZdTTlS\nJobs: https://t.co/gGZd29Z7jV\u2026",
+            "id": "1204414874467667968",
+            "name": "Futureswap",
+            "public_metrics": {
+                "followers_count": 12749,
+                "following_count": 194,
+                "listed_count": 295,
+                "tweet_count": 638
+            },
+            "username": "futureswapx"
+        },
+        {
+            "created_at": "2017-09-10T13:44:29.000Z",
+            "description": "Composable leverage protocol: open a Credit Account and use leverage on your favorite #DeFi protocols. DeFi-native prime brokerage \u2699\ufe0f\ud83e\uddf0 https://t.co/kueBdSelhA",
+            "id": "906876031168106497",
+            "name": "Gearbox \u2699\ufe0f\ud83e\uddf0 V2 LIVE",
+            "public_metrics": {
+                "followers_count": 23871,
+                "following_count": 2,
+                "listed_count": 337,
+                "tweet_count": 1074
+            },
+            "username": "GearboxProtocol"
+        },
+        {
+            "created_at": "2021-10-03T16:09:15.000Z",
+            "description": "Geist Finance is a decentralized, non-custodial liquidity market protocol operating on the Fantom Opera blockchain. https://t.co/bdk60WBYDD & https://t.co/P18EUEKjEj",
+            "id": "1444695318759677952",
+            "name": "Geist Finance",
+            "public_metrics": {
+                "followers_count": 18124,
+                "following_count": 6,
+                "listed_count": 359,
+                "tweet_count": 276
+            },
+            "username": "GeistFinance"
+        },
+        {
+            "created_at": "2021-02-22T06:36:25.000Z",
+            "description": "Decentralised Perpetual Exchange. Trade BTC, ETH, AVAX and more with up to 50x leverage directly from your wallet at https://t.co/AwN6IOGyxV. Join the community: https://t.co/oMwWFjhoyr",
+            "id": "1363739197018828802",
+            "name": "GMX \ud83e\uded0",
+            "public_metrics": {
+                "followers_count": 81474,
+                "following_count": 3,
+                "listed_count": 894,
+                "tweet_count": 1160
+            },
+            "username": "GMX_IO"
+        },
+        {
+            "created_at": "2015-08-26T16:41:48.000Z",
+            "description": "Decentralized infrastructure for the Ethereum ecosystem | @GnosisChain | https://t.co/bfVZTdQJ7u",
+            "id": "3448833448",
+            "name": "GnosisDAO",
+            "public_metrics": {
+                "followers_count": 119854,
+                "following_count": 479,
+                "listed_count": 1431,
+                "tweet_count": 4667
+            },
+            "username": "GnosisDAO"
+        },
+        {
+            "created_at": "2020-07-04T00:16:25.000Z",
+            "description": "Goldfinch is a decentralized credit protocol that allows anyone to be a lender, not just banks. \ud83d\udcac https://t.co/R7WyWdQoXh\n \ud83d\udd17 https://t.co/dDakskh0ka",
+            "id": "1279207125701390337",
+            "name": "Goldfinch",
+            "public_metrics": {
+                "followers_count": 50294,
+                "following_count": 0,
+                "listed_count": 443,
+                "tweet_count": 819
+            },
+            "username": "goldfinch_fi"
+        },
+        {
+            "created_at": "2020-09-29T09:31:23.000Z",
+            "description": "#DeFi Backed by #bitcoin\nGithub: https://t.co/49F9dQ7jVq\nDiscord: https://t.co/4Xqxwq3DDr",
+            "id": "1310874517527556097",
+            "name": "Gravity Finance",
+            "public_metrics": {
+                "followers_count": 4449,
+                "following_count": 334,
+                "listed_count": 0,
+                "tweet_count": 785
+            },
+            "username": "Gravity_Finance"
+        },
+        {
+            "created_at": "2021-04-30T05:59:54.000Z",
+            "description": "Boosted Vaults, complex vault strategies built on Fantom.\nReap more crypto, with crypto! Live on FANTOM, AVAX & POLYGON\n\nhttps://t.co/Pmx21GG2Sy \nhttps://t.co/qZi3M5aQuE",
+            "id": "1388010169502638090",
+            "name": "Grim Finance",
+            "public_metrics": {
+                "followers_count": 18638,
+                "following_count": 315,
+                "listed_count": 329,
+                "tweet_count": 1320
+            },
+            "username": "FinanceGrim"
+        },
+        {
+            "created_at": "2020-08-19T05:43:52.000Z",
+            "description": "Earn passive yield on your crypto with Harvest.\n\n\ud83d\ude9c Auto-compounding yield & rewards\n\ud83d\ude9c 50+ farming opportunities\n\ud83d\ude9c Established in 2020",
+            "id": "1295959614375297026",
+            "name": "Harvest",
+            "public_metrics": {
+                "followers_count": 63972,
+                "following_count": 149,
+                "listed_count": 591,
+                "tweet_count": 2219
+            },
+            "username": "harvest_finance"
+        },
+        {
+            "created_at": "2020-02-19T09:54:47.000Z",
+            "description": "Hegic is an on-chain peer-to-pool options trading protocol on Arbitrum. Start trading $ETH and $WBTC ATM / OTM Calls / Puts & One-click Option Strategies $HEGIC",
+            "id": "1230068162445660160",
+            "name": "Hegic",
+            "public_metrics": {
+                "followers_count": 24718,
+                "following_count": 0,
+                "listed_count": 376,
+                "tweet_count": 1510
+            },
+            "username": "HegicOptions"
+        },
+        {
+            "created_at": "2020-11-29T03:17:36.000Z",
+            "description": "$HELMET \u26d1  $GUARD \ud83d\udc99\n#Options #IIO #NFT \n\nDiscord: https://t.co/MOFSeubYLq\nTG: https://t.co/ZKeKkZYdlQ (CMO: https://t.co/cqQLJitElK)\nGuide: https://t.co/Mcv5I4idpJ",
+            "id": "1332886314656571392",
+            "name": "Helmet.insure #BSC #Polygon\ud83e\udd47",
+            "public_metrics": {
+                "followers_count": 67321,
+                "following_count": 4173,
+                "listed_count": 213,
+                "tweet_count": 1503
+            },
+            "username": "Helmet_insure"
+        },
+        {
+            "created_at": "2021-07-17T17:29:13.000Z",
+            "description": "A New Type of Layered Farms on BSC and Avalanche\n$HONEY $BEAR $MOON $BEE $a.BEE \ud83c\udf6f\nTG Group Chat: https://t.co/svFyNWusrC\nTG Announcement Channel: https://t.co/ryjhXRwEKu",
+            "id": "1416449899344760832",
+            "name": "HoneyFarm",
+            "public_metrics": {
+                "followers_count": 11864,
+                "following_count": 91,
+                "listed_count": 25,
+                "tweet_count": 1049
+            },
+            "username": "HoneyFarmFi"
+        },
+        {
+            "created_at": "2021-01-21T19:52:03.000Z",
+            "description": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner\n\nDiscord: https://t.co/AzXCvLo0TJ",
+            "id": "1352341846698020865",
+            "name": "HopProtocol",
+            "public_metrics": {
+                "followers_count": 89416,
+                "following_count": 0,
+                "listed_count": 834,
+                "tweet_count": 321
+            },
+            "username": "HopProtocol"
+        },
+        {
+            "created_at": "2017-07-14T19:41:27.000Z",
+            "description": "Building IDEX v4 \u2013 Perpetual Swaps DEX with up to 100x leverage. There will be no second best.\n\nDiscord: https://t.co/FzhJF4mXfE\nTelegram: https://t.co/oZnkE5pAua",
+            "id": "885947368159498240",
+            "name": "IDEX",
+            "public_metrics": {
+                "followers_count": 82561,
+                "following_count": 2064,
+                "listed_count": 751,
+                "tweet_count": 10556
+            },
+            "username": "idexio"
+        },
+        {
+            "created_at": "2019-07-30T22:29:14.000Z",
+            "description": "Building the #DeFi yield automation infrastructure for next-gen financial players. Tweets represent $IDLE DAO.\n\nhttps://t.co/6rpt1vjmfC",
+            "id": "1156330940773404673",
+            "name": "Idle DAO",
+            "public_metrics": {
+                "followers_count": 13444,
+                "following_count": 330,
+                "listed_count": 299,
+                "tweet_count": 1956
+            },
+            "username": "idlefinance"
+        },
+        {
+            "created_at": "2020-11-28T22:35:56.000Z",
+            "description": "One-click access to #DeFi yield farming with no risk of impermanent loss. \n\nDiscord: https://t.co/1MfAK6rTh4",
+            "id": "1332815455082385409",
+            "name": "Impermax Finance",
+            "public_metrics": {
+                "followers_count": 10681,
+                "following_count": 581,
+                "listed_count": 148,
+                "tweet_count": 471
+            },
+            "username": "ImpermaxFinance"
+        },
+        {
+            "created_at": "2020-10-13T07:42:38.000Z",
+            "description": "Buidling the Impossible #BSC #MOVR #Moonriver #Ethereum #Polygon #DeFi Official Links: https://t.co/A1KUPRbExr Research: impossibleresearch.eth",
+            "id": "1315920782065766400",
+            "name": "Impossible Finance",
+            "public_metrics": {
+                "followers_count": 275858,
+                "following_count": 152,
+                "listed_count": 554,
+                "tweet_count": 1375
+            },
+            "username": "impossiblefi"
+        },
+        {
+            "created_at": "2018-10-31T19:53:03.000Z",
+            "description": "Powerful Multi-Chain DeFi Management.\n\nhttps://t.co/iA8kG0w5Wa",
+            "id": "1057722135974539264",
+            "name": "Instadapp",
+            "public_metrics": {
+                "followers_count": 36027,
+                "following_count": 0,
+                "listed_count": 592,
+                "tweet_count": 880
+            },
+            "username": "Instadapp"
+        },
+        {
+            "created_at": "2020-11-19T13:13:00.000Z",
+            "description": "Leading Multi-Chain Decentralized Cover. Make Crypto Safer. $INSUR Find out more \ud83d\udc49 https://t.co/iPUwlUDnoi",
+            "id": "1329412138922696707",
+            "name": "InsurAce.io Protocol",
+            "public_metrics": {
+                "followers_count": 42875,
+                "following_count": 668,
+                "listed_count": 247,
+                "tweet_count": 4479
+            },
+            "username": "InsurAce_io"
+        },
+        {
+            "created_at": "2020-12-10T09:37:38.000Z",
+            "description": "DECENTRALIZED GLOBAL CENTRAL BANK https://t.co/YdbNna0aHW",
+            "id": "1336968226744504320",
+            "name": "Inverse+",
+            "public_metrics": {
+                "followers_count": 23334,
+                "following_count": 11,
+                "listed_count": 268,
+                "tweet_count": 1536
+            },
+            "username": "InverseFinance"
+        },
+        {
+            "created_at": "2021-01-07T08:40:02.000Z",
+            "description": "Building a user-friendly, multi-chain stableswap and lending ecosystem.",
+            "id": "1347100627986391042",
+            "name": "IRON Finance",
+            "public_metrics": {
+                "followers_count": 28718,
+                "following_count": 87,
+                "listed_count": 190,
+                "tweet_count": 503
+            },
+            "username": "IronFinance"
+        },
+        {
+            "created_at": "2020-11-28T21:03:47.000Z",
+            "description": "Yield Farming, AMM & Lending Ecosystem on #BSC & #Polygon & #FTM $FUEL | $JETS | $FTS | $GFCE | $WINGS | $pWINGS | $fWINGS",
+            "id": "1332792291640152067",
+            "name": "Jetfuel Finance Multi Chain Ecosystem \ud83d\ude80",
+            "public_metrics": {
+                "followers_count": 91870,
+                "following_count": 388,
+                "listed_count": 368,
+                "tweet_count": 4727
+            },
+            "username": "Jetfuelfinance"
+        },
+        {
+            "created_at": "2020-11-28T21:03:47.000Z",
+            "description": "Yield Farming, AMM & Lending Ecosystem on #BSC & #Polygon & #FTM $FUEL | $JETS | $FTS | $GFCE | $WINGS | $pWINGS | $fWINGS",
+            "id": "1332792291640152067",
+            "name": "Jetfuel Finance Multi Chain Ecosystem \ud83d\ude80",
+            "public_metrics": {
+                "followers_count": 91870,
+                "following_count": 388,
+                "listed_count": 368,
+                "tweet_count": 4727
+            },
+            "username": "Jetfuelfinance"
+        },
+        {
+            "created_at": "2020-12-16T07:57:44.000Z",
+            "description": "Empowering DeFi for masses by utilizing NFTs and $KALM | https://t.co/lOJRtgb2WR",
+            "id": "1339117410104737792",
+            "name": "KALM",
+            "public_metrics": {
+                "followers_count": 34022,
+                "following_count": 751,
+                "listed_count": 75,
+                "tweet_count": 1197
+            },
+            "username": "KalmyAPP"
+        },
+        {
+            "created_at": "2021-05-03T03:43:01.000Z",
+            "description": "Earn the best risk-adjusted yields on your crypto at https://t.co/CAa2on79Al \ud83e\udd77\ud83c\udffd \n\nIgnition Hackathon Grand Prize Winner\n\nhttps://t.co/VyDV4oV5Vu",
+            "id": "1389062886262251521",
+            "name": "Katana \ud83e\udd77\ud83c\udffd",
+            "public_metrics": {
+                "followers_count": 34930,
+                "following_count": 23,
+                "listed_count": 481,
+                "tweet_count": 697
+            },
+            "username": "Katana_HQ"
+        },
+        {
+            "created_at": "2021-01-16T04:04:10.000Z",
+            "description": "The strategically superior yield farming community on the Binance Smart Chain",
+            "id": "1350292712541614080",
+            "name": "Kebab Finance \ud83e\udd59",
+            "public_metrics": {
+                "followers_count": 13967,
+                "following_count": 14,
+                "listed_count": 151,
+                "tweet_count": 371
+            },
+            "username": "kebabfinance"
+        },
+        {
+            "created_at": "2017-08-12T20:22:02.000Z",
+            "description": "Keep is building infrastructure for autonomous private data on public blockchains, DApps, & DAOs, including #tBTC. Come build with us!\nDiscord https://t.co/vcBq6ovmcX",
+            "id": "896466828733685760",
+            "name": "Keep #tBTC",
+            "public_metrics": {
+                "followers_count": 32474,
+                "following_count": 443,
+                "listed_count": 445,
+                "tweet_count": 2912
+            },
+            "username": "keep_project"
+        },
+        {
+            "created_at": "2021-06-20T21:09:04.000Z",
+            "description": "https://t.co/Qu0txZEZcs\nhttps://t.co/FHfOUek2nG",
+            "id": "1406720703722893316",
+            "name": "Keep3r Network",
+            "public_metrics": {
+                "followers_count": 20476,
+                "following_count": 4,
+                "listed_count": 222,
+                "tweet_count": 160
+            },
+            "username": "thekeep3r"
+        },
+        {
+            "created_at": "2021-02-09T06:53:09.000Z",
+            "description": "Higher security with lower slippage, perpetual futures DEX | \ud83d\udd25 Vibe with #Ki\u03c0e #zerofee | \ud83d\udcac https://t.co/owHYqPOHPI | \ud83e\ude82 https://t.co/7CHxMEpoDf",
+            "id": "1359032417512660993",
+            "name": "Kine Protocol",
+            "public_metrics": {
+                "followers_count": 111938,
+                "following_count": 143,
+                "listed_count": 128,
+                "tweet_count": 719
+            },
+            "username": "KineProtocol"
+        },
+        {
+            "created_at": "2021-06-02T17:19:13.000Z",
+            "description": "Introducing $KLIMA \u2014  carbon-backed cryptocurrency. #ReFi Go carbon neutral with Klima Infinity: https://t.co/7hphmZu7dd",
+            "id": "1400139779480731651",
+            "name": "KlimaDAO",
+            "public_metrics": {
+                "followers_count": 69678,
+                "following_count": 43,
+                "listed_count": 995,
+                "tweet_count": 1460
+            },
+            "username": "KlimaDAO"
+        },
+        {
+            "created_at": "2017-05-20T16:14:33.000Z",
+            "description": "Multichain #DeFi exchange & aggregator on 13 chains\u26a1Swap at the best rates\n\u26a1LPs earn more | $KNC alpha: https://t.co/GuiT6i94LN | TG: https://t.co/mk1GdeKFMn",
+            "id": "865963965649571840",
+            "name": "Kyber Network",
+            "public_metrics": {
+                "followers_count": 235923,
+                "following_count": 1142,
+                "listed_count": 2366,
+                "tweet_count": 8342
+            },
+            "username": "KyberNetwork"
+        },
+        {
+            "created_at": "2020-10-01T10:45:17.000Z",
+            "description": "Liquid staking made easy \ud83c\udfdd\ufe0f",
+            "id": "1311617716239900673",
+            "name": "Lido",
+            "public_metrics": {
+                "followers_count": 113247,
+                "following_count": 420,
+                "listed_count": 1508,
+                "tweet_count": 2938
+            },
+            "username": "LidoFinance"
+        },
+        {
+            "created_at": "2020-04-06T16:12:53.000Z",
+            "description": "Interest free borrowing built on #ETH. Home to $LUSD - the unstoppable Ethereum native stablecoin & $LQTY.\nCreator of @ChickenBonds.\nDiscord: https://t.co/0iKGcr4kyK",
+            "id": "1247195506331332609",
+            "name": "Liquity",
+            "public_metrics": {
+                "followers_count": 33801,
+                "following_count": 184,
+                "listed_count": 582,
+                "tweet_count": 1533
+            },
+            "username": "LiquityProtocol"
+        },
+        {
+            "created_at": "2007-09-27T20:08:02.000Z",
+            "description": "Ethereum (Layer 2) zkRollup Protocol\ud83d\udc99 powering\u26a1\ufe0f (mobile) L2 integrated Smart Wallet https://t.co/UyKjRxp6Ew, (web) L2 DEX:https://t.co/2BideH68rE",
+            "id": "9130922",
+            "name": "Loopring\ud83d\udc99\ud83c\udff4\u200d\u2620\ufe0f",
+            "public_metrics": {
+                "followers_count": 209142,
+                "following_count": 652,
+                "listed_count": 1985,
+                "tweet_count": 5496
+            },
+            "username": "loopringorg"
+        },
+        {
+            "created_at": "2021-01-20T13:05:08.000Z",
+            "description": "Macaron is #BUIDL'ing Decentralized Exchange and Farm on #BSC and #Polygon!\nhttps://t.co/Xuig6TNZeX\nFarm, Stake, Win.\nTelegram: https://t.co/Q7XiWNvjPO \n#DeFi $MCRN #MCRN",
+            "id": "1351878341511553024",
+            "name": "MacaronSwap",
+            "public_metrics": {
+                "followers_count": 34411,
+                "following_count": 222,
+                "listed_count": 42,
+                "tweet_count": 2162
+            },
+            "username": "macaronswap"
+        },
+        {
+            "created_at": "2021-06-01T23:00:04.000Z",
+            "description": "Creators of $MAI (miMatic) Stablecoin. Start borrowing at 0% interest against your crypto https://t.co/I5MrqAl3Fa",
+            "id": "1399863285562884101",
+            "name": "Qi Dao (\ud83d\udfe1,\ud83d\udd34)",
+            "public_metrics": {
+                "followers_count": 44582,
+                "following_count": 264,
+                "listed_count": 362,
+                "tweet_count": 1980
+            },
+            "username": "QiDaoProtocol"
+        },
+        {
+            "created_at": "2015-04-21T13:51:12.000Z",
+            "description": "Builders of Dai, a digital currency that can be used by anyone, anywhere, anytime.\nDo not send money to accounts impersonating Maker.",
+            "id": "3190865591",
+            "name": "Maker",
+            "public_metrics": {
+                "followers_count": 236695,
+                "following_count": 255,
+                "listed_count": 3889,
+                "tweet_count": 5133
+            },
+            "username": "MakerDAO"
+        },
+        {
+            "created_at": "2019-08-23T04:55:41.000Z",
+            "description": "Institutional capital network built on @ethereum @solana. Transformed through tech, Maple brings capital markets on-chain.",
+            "id": "1164762427604389890",
+            "name": "Maple",
+            "public_metrics": {
+                "followers_count": 20499,
+                "following_count": 1046,
+                "listed_count": 363,
+                "tweet_count": 3570
+            },
+            "username": "maplefinance"
+        },
+        {
+            "created_at": "2021-03-25T11:26:25.000Z",
+            "description": "Leading liquid-staking platform supporting Solana decentralization. Use $mSOL across the DeFi ecosystem. https://t.co/pE7ct1lzMG $MNDE Chef NFT mint and more\ud83d\udc47",
+            "id": "1375046230858993664",
+            "name": "Marinade Finance",
+            "public_metrics": {
+                "followers_count": 31080,
+                "following_count": 344,
+                "listed_count": 605,
+                "tweet_count": 2262
+            },
+            "username": "MarinadeFinance"
+        },
+        {
+            "created_at": "2020-12-29T06:09:14.000Z",
+            "description": "A #DeFi protocol that integrates #DEX, #IMO, #DAO and #Perpetual. Join our referral program and earn up to 25% commission now! \n\nhttps://t.co/TADf26rQ0F, https://t.co/3SrEuljloO",
+            "id": "1343801186202255360",
+            "name": "Mdex.com",
+            "public_metrics": {
+                "followers_count": 182150,
+                "following_count": 347,
+                "listed_count": 252,
+                "tweet_count": 919
+            },
+            "username": "Mdextech"
+        }
+    ]
+}
