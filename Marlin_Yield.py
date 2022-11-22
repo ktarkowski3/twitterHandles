@@ -1,14 +1,41 @@
+import datetime
 import tweepy 
 import logging
 import time
 import json
 import requests
+import shutil
+from datetime import datetime
+import os
+import glob
+
+api_key = 'XXX'
+api_secret = 'XXX'
+access_token = 'XXX'
+access_token_secret = 'XXX'
+bearer_token = r'XXX'
 
 client = tweepy.Client(bearer_token, api_key, api_secret, access_token, access_token_secret, wait_on_rate_limit=True)
 
 auth = tweepy.OAuth1UserHandler(api_key, api_secret, access_token, access_token_secret)
 api = tweepy.API(auth) 
 
+
+# Build string for directory to hold files
+# Output Configuration
+#   drive_letter = Output device location (hard drive)
+#   folder_name = directory (folder) to receive and store PDF files
+
+drive_letter = r'XXX'
+folder_name = r''
+folder_time = datetime.now().strftime("%Y-%m-%d_%I-%M-%S_%p")
+folder_to_save_files = drive_letter + folder_name + folder_time
+
+
+
+# IF no such folder exists, create one automatically
+if not os.path.exists(folder_to_save_files):
+    os.mkdir(folder_to_save_files)
 
 
 def create_url():
@@ -52,8 +79,21 @@ def main():
     with open('Marlin_Yield.json', 'w') as outfile:
         json.dump(json_response, outfile, indent=4, sort_keys=True)
     #print(json.dumps(json_response, indent=4, sort_keys=True))
-    
 
 
 if __name__ == "__main__":
     main()
+
+
+source = 'XXX'
+destination = folder_to_save_files
+#
+# gather all files
+allfiles = glob.glob(os.path.join(source, '*_*'), recursive=True)
+print("Files to move", allfiles)
+
+# iterate on all files to move them to destination folder
+for file_path in allfiles:
+    dst_path = os.path.join(destination, os.path.basename(file_path))
+    shutil.move(file_path, dst_path)
+    print(f"Moved {file_path} -> {dst_path}")
